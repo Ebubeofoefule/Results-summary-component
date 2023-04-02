@@ -107,7 +107,7 @@ h3 {
 
 .react::before {
   content: "";
-  background-image: url(/results-summary-component-main/assets/images/icon-reaction.svg);
+  background-image: url(./assets/images/icon-reaction.svg);
   background-repeat: no-repeat;
   background-size: 18px;
   width: 100%;
@@ -128,7 +128,7 @@ h3 {
 
 .memo::before {
   content: "";
-  background-image: url(/results-summary-component-main/assets/images/icon-memory.svg);
+  background-image: url(./assets/images/icon-memory.svg);
   background-repeat: no-repeat;
   background-size: 18px;
   width: 100%;
@@ -149,7 +149,7 @@ h3 {
 
 .verb::before {
   content: "";
-  background-image: url(/results-summary-component-main/assets/images/icon-verbal.svg);
+  background-image: url(./assets/images/icon-verbal.svg);
   background-repeat: no-repeat;
   background-size: 18px;
   width: 100%;
@@ -170,7 +170,7 @@ h3 {
 
 .visu::before {
   content: "";
-  background-image: url(/results-summary-component-main/assets/images/icon-visual.svg);
+  background-image: url(./assets/images/icon-visual.svg);
   background-repeat: no-repeat;
   background-size: 18px;
   width: 100%;
